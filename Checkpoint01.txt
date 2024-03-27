@@ -1,0 +1,11 @@
+Paolo Oabel, 2231244
+Elie Ramampiarison, 2230252 
+
+Project description:
+    Our game is a horror maze escape game. The protagonist will find themselves lost and trapped in a dark and ominouse maze. This maze will house many dangerous creatures around every corner. The player must solve riddles, problems and puzzles to find a way out while running away from these monsters that are trying to kill you. Through clues left around the maze, the player will be able to find a way out if they manage to survive. A key part of the game is an eerie atmosphere while offering interesting, new and challenging puzzles that any problem solver will enjoy. The environment will offer gnarled trees, old broken down walls, destroyed offices with flickering and many more features to really immerse the player in our horror game.
+
+Our Plan For Checkpoint 2:
+    One of the most key aspects of the game is the environment. We will spend a lot of time developping many of the assets that we will actively reuse through out our development. We will also focus on the layout of the world as to come to a layout that makes sense with our goals. We will also begin brainstorming puzzle ideas taking inspiration from games we have played in the past. Another crucial component is the movement. We will make sure the player has amazing control over the protagonist because they will be running away from creepy monsters a lot. We will also look into finding a eerie soundtrack that suits the atmosphere of the game. We will also implement a UI system that will convey important information such as their characters health, their stamina levels and the items they have picked up along the way. AI behaviour will also be implemented in the future once we decide what kind of creatures we would like to implement.
+
+For checkpoint 02, we will make sure to have functioning movement and a basic layout of our world with certain assets already developped.
+
